@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9be1d058a61ce1a489c510f8fa0417b5, type: 3}
+  m_Name: '#shield'
+  m_EditorClassIdentifier: 
+  abilityType: 0
+  shield: {fileID: 3469498983238417020, guid: d5e11e65e4deab2419275fa65be8f705, type: 3}
+  colour: {r: 0.16273585, g: 0.39224172, b: 0.6509434, a: 0.41960785}
+  isPlayerChild: 0
+  offset: {x: 0, y: 1.5, z: 2}
+  shieldHealth: 1000
+  minRecoveryHealth: 100
+  regenPerSecond: 50
+  regenDelay: 2
+  shieldDuration: 2
+  type:
+    GuidAssignmentFailed: 0
+    GUID: 33edf0625c1bdbf40b033eb034d9a4ba
+    _typeNameAndAssembly: Shield, Assembly-CSharp
+    _suppressLogs: 0

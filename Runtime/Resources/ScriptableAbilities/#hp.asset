@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb783c7f82df6a6459825a36e5f3d591, type: 3}
+  m_Name: '#hp'
+  m_EditorClassIdentifier: 
+  abilityType: 0
+  healValue: 0
+  useGravity: 0
+  packMass: 0
+  hasDuration: 0
+  packDuration: 0
+  giveOverHealth: 0
+  overHealthDuration: 0
+  onlyOverHealth: 0
+  healthpack: {fileID: 2143095005756950372, guid: 9299b658896b692428630ef524c4c693, type: 3}
+  type:
+    GuidAssignmentFailed: 0
+    GUID: b47cd533fe7d25242b4bddb462306284
+    _typeNameAndAssembly: SpawnHealthPack, CharacterPlugin.runtime
+    _suppressLogs: 0

@@ -1,0 +1,11 @@
+{
+  "name": "com.chilean_miner.charactercreator",
+  "version": "1.2.3",
+  "displayName": "CharacterCreator",
+  "description": "This is an example package",
+  "dependencies": {
+    "com.solidalloy.type-references": "https://github.com/SolidAlloy/ClassTypeReference-for-Unity.git"
+  },
+  "type": "tool",
+  "hideInEditor": false
+}

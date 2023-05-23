@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7db9387ea257d2b4985a9318c2f79ae1, type: 3}
+  m_Name: '#p'
+  m_EditorClassIdentifier: 
+  abilityType: 0
+  cam: {fileID: 0}
+  primaryFire: {fileID: 0}
+  type:
+    GuidAssignmentFailed: 0
+    GUID: c8ac306db55b9194898e467926bf8dd2
+    _typeNameAndAssembly: PrimaryFire, Assembly-CSharp
+    _suppressLogs: 0
+  index: 1
+  Damage: 10
+  projectileSpeed: 500
+  upwardForce: 0
+  useGravity: 0
+  bulletMass: 0
+  hasSplashDamage: 1
+  splashRadius: 3
+  splashDamage: 10
+  projBullet: {fileID: 5543230023148534133, guid: e51d635c2028fd445be46c39d8a944d1, type: 3}
+  beamRange: 0
